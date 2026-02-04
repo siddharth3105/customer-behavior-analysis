@@ -1,0 +1,35 @@
+# Customer Behavior & Product Usage Analysis
+
+## Overview
+This project analyzes customer usage data to understand engagement patterns,
+identify drop-off trends, and generate insights to improve product experience.
+
+## Objective
+- Explore customer behavior using data analysis techniques
+- Formulate and validate hypotheses using statistical analysis
+- Interpret results in a business and customer context
+
+## Tools & Technologies
+- Python
+- Pandas, NumPy
+- Matplotlib
+- Jupyter Notebook
+
+## Key Steps
+1. Data cleaning and validation
+2. Exploratory data analysis (EDA)
+3. Hypothesis formulation and statistical validation
+4. Insight generation and interpretation
+5. Business and product recommendations
+
+## Key Insights
+- Higher session duration correlates with increased user activity
+- Certain features consistently drive higher engagement
+- User drop-off occurs early in the usage lifecycle
+
+## Limitations & Future Work
+- Limited demographic information
+- Future work can include cohort analysis and predictive modeling
+
+## Author
+Suraj Shrivas
